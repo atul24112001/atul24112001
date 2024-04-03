@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm full-stack developer</h1>
-<h3 align="center">I am a full stack developer with experties in React, NodeJs, NextJs, MongoDb, Postgres, Azure, Flutter, Dart, Javascript etc. I have completed 8 month of internship followed by 8 months of full time experience in a product base company.</h3>
+<h3 align="center">I am a full stack developer with experties in React, NodeJs, NextJs, MongoDb, Postgres, Azure, Flutter, Dart, Javascript etc. I have completed 8 month of internship followed by  1.2 years of full time experience in a product base company.</h3>
 
 <p align="left"> <a href="https://twitter.com/MorchhlayAtul" target="blank"><img src="https://img.shields.io/twitter/follow/MorchhlayAtul?logo=twitter&style=for-the-badge" alt="atulmorchhlay" /></a> </p>
 
