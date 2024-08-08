@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/MorchhlayAtul" target="blank"><img src="https://img.shields.io/twitter/follow/MorchhlayAtul?logo=twitter&style=for-the-badge" alt="atulmorchhlay" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://portfolio.atulmorchhlay.com](https://portfolio.atulmorchhlay.com)
+- 👨‍💻 All of my projects are available at [http://portfolio.atulmorchhlay.com](https://atulmorchhlay.com)
 
 - 💬 Ask me about **React, NodeJs, NextJS, GoLang, Flutter, SQL, NoSQL, Azure, AWS, Kubernetes, Docker**
 
