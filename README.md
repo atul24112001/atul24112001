@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://portfolio.atulmorchhlay.com](https://portfolio.atulmorchhlay.com)
 
-- 💬 Ask me about **React, NodeJs, MongoDb, Postgres, SQL, NoSQL, Azure, Kubernetes, Docker**
+- 💬 Ask me about **React, NodeJs, NextJS, GoLang, Flutter, SQL, NoSQL, Azure, AWS, Kubernetes, Docker**
 
 - 📫 How to reach me **atulmorchhlay204@gmail.com**
 
